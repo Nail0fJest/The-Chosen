@@ -1,37 +1,74 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "The Chosen",
+		"leaderName": "The First",
+		"adjective": ["Chosen"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "We are the Chosen. We craft this world as we please.",
+		"startIntroPart2": "The Chosen know no limits... Unlike some...",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "You have been selected to join the Chosen... Willing or not...",
+		"attacked": "Why do you struggle? Why do you encourage your own suffering?",
+		"defeated": "What will be left of this world without us? Only death. Only destruction. We would have united all... If not for you...",
+		"introduction": "Greeting. The Chosen have acknowledged you as a true civilization. Congratulations.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "May we help you?",
+		"neutralLetsHearIt": ["Speak child and be done with it!"],
+		"neutralNo": ["No, we cannot help you.","No.","We do mot wish for this, no."],
+		"neutralYes": ["A wise decision.","Of course, yes.","That is good, I suppose."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "Another ingorant child come to speak to their betters...",
+		"hateLetsHearIt": ["Speak child and be done with it...","What do you say?","Go on."],
+		"hateNo": ["You are as foolish as you are incompetent!","You should sever yourself from such wishful dreams...","Surely you jest?"],
+		"hateYes": ["It is only because it is for the best.","A hard decision, on tough times.","So be it..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "A moment of peace to collect your thoughts? You will need it...",
+		"tradeRequest": "Come, trade with us and share in its spenders."
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"unique": "MANIFES[
+	{
+		"name": "The Chosen",
+		"leaderName": "The First",
+		"adjective": ["Chosen"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "We are the Chosen. We craft this world as we please.",
+		"startIntroPart2": "The Chosen know no limits... Unlike some...",
+		
+		"declaringWar": "You have been selected to join the Chosen... Willing or not...",
+		"attacked": "Why do you struggle? Why do you encourage your own suffering?",
+		"defeated": "What will be left of this world without us? Only death. Only destruction. We would have united all... If not for you...",
+		"introduction": "Greeting. The Chosen have acknowledged you as a true civilization. Congratulations.",
+		
+		"neutralHello": "May we help you?",
+		"neutralLetsHearIt": ["Speak child and be done with it!"],
+		"neutralNo": ["No, we cannot help you.","No.","We do mot wish for this, no."],
+		"neutralYes": ["A wise decision.","Of course, yes.","That is good, I suppose."],
+
+		"hateHello": "Another ingorant child come to speak to their betters...",
+		"hateLetsHearIt": ["Speak child and be done with it...","What do you say?","Go on."],
+		"hateNo": ["You are as foolish as you are incompetent!","You should sever yourself from such wishful dreams...","Surely you jest?"],
+		"hateYes": ["It is only because it is for the best.","A hard decision, on tough times.","So be it..."],
+		
+		"afterPeace": "A moment of peace to collect your thoughts? You will need it...",
+		"tradeRequest": "Come, trade with us and share in its spenders."
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+		"cities": ["The First Palace","Hopeful Deams","Miseries Downfall","Life's Gate","Death's Door","Sinful Pride","Arrogant Righteousness","End of Days","New World",
+			"Painless","Peaceless","Greed's Bounty","Generous Death","Witness","Suspect","Wall of Mourning","Tower of Light","Darkened Pit","Q'Honkrath",
+			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
+			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+	}
+]T_DESTINY",
+		"cities": ["The First Palace","Hopeful Deams","Miseries Downfall","Life's Gate","Death's Door","Sinful Pride","Arrogant Righteousness","End of Days","New World",
+			"Painless","Peaceless","Greed's Bounty","Generous Death","Witness","Suspect","Wall of Mourning","Tower of Light","Darkened Pit","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 	}
