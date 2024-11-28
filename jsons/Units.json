@@ -7,7 +7,7 @@
 		"movement": 3,
 		"strength": 15,
 		"cost": 100,
-		"promotions": ["March","Highly Trained","Amphibious","Dominion Patrol"],
+		"promotions": ["March","Highly Trained","Amphibious"],
 		"attackSound": "phasers"
 	}
 ]
