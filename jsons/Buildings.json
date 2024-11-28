@@ -1,25 +1,28 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"name": "Archon of Enlightening",
+		"replaces": "Shrine",
+		"uniqueTo": "The Chosen",
+		"cost": 50,
+		"hurryCostModifier": 100,
+		"happiness": 5,
+		"culture": 5,
+		"science": 5,
+		"Faith": 5,
+		"maintenance": 2,
+		"requiredTech": "Pottery"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
+		"name": "Archon of Destruction",
+		"replaces": "none",
+		"uniqueTo": "The Chosen",
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+                "Production": 10,
+                "Faith": 10,
+		"maintenance": 2
+		"uniques": ["Allows The Chosen to create an Archon on Death"],
+		"requiredTech": "Calendar"
 	}
 ]
