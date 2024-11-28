@@ -6,8 +6,8 @@
 		"startBias": ["Jungle"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We are the Chosen. We craft this world as we please.",
-		"startIntroPart2": "The Chosen know no limits... Unlike some...",
+		"startIntroPart1": "Greeting Chosen One. You are the first to be chosen but surely not the last. This world has been given to you but onlu if you can take it.",
+		"startIntroPart2": "As the world changes, it is left to you, to craft the world as you see fit. Do not concern yourself with the troubles or concerns of the heathens. It is your sacred mission to expand you empire and grace those you deem worthy to join you in your perfection. Can you make your destiny truth? Can you build and empire that will stand the test of time?",
 		
 		"declaringWar": "You have been selected to join the Chosen... Willing or not...",
 		"attacked": "Why do you struggle? Why do you encourage your own suffering?",
@@ -31,8 +31,8 @@
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["The First Palace","Hopeful Deams","Miseries Downfall","Life's Gate","Death's Door","Sinful Pride","Arrogant Righteousness","End of Days","New World",
-			"Painless","Peaceless","Greed's Bounty","Generous Death","Witness","Suspect","Wall of Mourning","Tower of Light","Darkened Pit","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
+			"Painless","Peaceless","Greed's Bounty","Generous Death","Witness","Suspect","Wall of Mourning","Tower of Light","Darkened Pit","The Worthless",
+			"Heathens Repence","Enlightened Fields","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 	}
 ]
