@@ -9,5 +9,16 @@
 		"cost": 100,
 		"promotions": ["March","Highly Trained","Amphibious"],
 		"attackSound": "phasers"
-	}
+	},
+	{
+		"name": "Archon of Death",
+		"unitType": "Melee",
+		"uniqueTo": "The Chosen",
+		"movement": 3,
+		"strength": 45,
+		"cost": 200,
+		"promotions": ["March","Amphibious""Drill"],
+		"attackSound": "phasers"
+		"requiredBuilding": "Archon of Destruction"
+	},
 ]
